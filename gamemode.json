@@ -1,0 +1,16 @@
+{
+  "kikked": [
+    {
+      "prop": "jump",
+      "value": 3.0
+    },
+    {
+      "prop": "speed",
+      "value": 1.0009
+    },
+    {
+      "prop": "cartridges",
+      "value": 400
+    }
+  ]
+}
